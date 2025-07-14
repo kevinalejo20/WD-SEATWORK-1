@@ -26,8 +26,8 @@ It features:
 ## 🌐 Live Site
 
 Check out the live version here:  
-🔗 [https://yourusername.github.io/kei-apparel/](https://yourusername.github.io/kei-apparel/)  
-_(Replace `yourusername` with your actual GitHub username after deployment)_
+🔗 [https://kevinalejo20.github.io/WD-SEATWORK-1/
+
 
 ## ✅ Features Used
 
