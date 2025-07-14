@@ -1,15 +1,13 @@
-# 🧢 Kei Apparel - Student Website Project
+# 🧢 Kei Apparel - WD SEATWORK 1 
 
-Welcome to **Kei Apparel** — a simple student-made website showcasing a fictional clothing brand built with love for fashion, friends, and fun!
+Welcome to **Kei Apparel** — a simple student-made website showcasing a fictional clothing brand built with love for fashion
 
 ## 👨‍💻 Made By
 **Kevin Carl Alejo**  
 **Section: TC05**
 
-## 🎯 Project Description
+## 🎯 SW SEATWORK 1 Description
 
-This is a beginner HTML and CSS project made as part of a school activity.  
-It features:
 
 - ✅ 5 headers (one for each page section)
 - ✅ 5 footers with different styles
@@ -36,9 +34,9 @@ Check out the live version here:
 - CSS for layout, colors, and spacing
 - GitHub Pages for deployment
 
-## 📌 Notes
 
-This website was created as a school requirement to demonstrate basic web design skills. It is not meant for commercial use.
+
+
 
 ---
 
